@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+logs/
+*.log
+*.log.*
+python*.INFO
+data/raw_data
+.DS_Store
+
+build/
+dist/
+*.egg-info/
+*.pt
+checkpoints/
+
+# Local model payloads live on the existing capacity disk.
+/model_servers/mid_a1_final/logs
+/model_servers/mid_a1_final/rootfs
+/model_servers/mid_a1_final/tmp
+/model_servers/mid_a1_final/verification.tar.gz
+/model_servers/mid_a1_final/assets.tar.gz
+/model_servers/mid_a1_final/cache
+/model_servers/mid_a1_final/env
+/model_servers/mid_a1_final/environment.tar.gz

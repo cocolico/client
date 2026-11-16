@@ -1,0 +1,8 @@
+{
+  "model": "pi05",
+  "protocol_version": 4,
+  "ssh_host": "b_dev",
+  "server_host": "172.31.69.80",
+  "server_port": 8858,
+  "status": "verified_real_and_piper_20261018"
+}

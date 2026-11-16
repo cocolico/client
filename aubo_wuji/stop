@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -euo pipefail
+CLIENT_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+exec "$CLIENT_ROOT/python" "$CLIENT_ROOT/stop.py" "$@"

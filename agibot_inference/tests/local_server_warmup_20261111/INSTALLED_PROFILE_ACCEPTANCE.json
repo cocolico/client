@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "tasks": [
+    "diguan",
+    "yifu",
+    "dengpao",
+    "drink"
+  ],
+  "installed_profile": "mid_a1_final_local",
+  "robot_io": false
+}

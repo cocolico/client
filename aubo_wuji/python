@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+CLIENT_ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)"
+# The existing launcher loads Python3.12, ROS Jazzy and the tested SDK libraries.
+REPLAY_ROOT="${AUBO_WUJI_REPLAY_ROOT:-$CLIENT_ROOT/../../code}"
+exec "$REPLAY_ROOT/python" "$@"

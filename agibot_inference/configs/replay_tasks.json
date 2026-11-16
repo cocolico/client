@@ -1,0 +1,2912 @@
+{
+  "schema": "g2_replay_tasks_v1",
+  "host": "real",
+  "tasks": {
+    "yifu": {
+      "episodes": [
+        {
+          "index": 0,
+          "name": "agibot_yifu",
+          "format": "public71",
+          "path": "/data/sharpa/pose_studio/data/lerobot_versions/egoav_new_pilot_20261020/agibot_yifu"
+        },
+        {
+          "index": 1,
+          "name": "1004晾衣服_20261004114719",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004114719",
+          "source_episode_index": 0
+        },
+        {
+          "index": 2,
+          "name": "1004晾衣服_20261004114843",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004114843",
+          "source_episode_index": 1
+        },
+        {
+          "index": 3,
+          "name": "1004晾衣服_20261004114939",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004114939",
+          "source_episode_index": 2
+        },
+        {
+          "index": 4,
+          "name": "1004晾衣服_20261004125401",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004125401",
+          "source_episode_index": 3
+        },
+        {
+          "index": 5,
+          "name": "1004晾衣服_20261004125510",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004125510",
+          "source_episode_index": 4
+        },
+        {
+          "index": 6,
+          "name": "1004晾衣服_20261004125607",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004125607",
+          "source_episode_index": 5
+        },
+        {
+          "index": 7,
+          "name": "1004晾衣服_20261004125658",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004125658",
+          "source_episode_index": 6
+        },
+        {
+          "index": 8,
+          "name": "1004晾衣服_20261004125744",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004125744",
+          "source_episode_index": 7
+        },
+        {
+          "index": 9,
+          "name": "1004晾衣服_20261004125838",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004125838",
+          "source_episode_index": 8
+        },
+        {
+          "index": 10,
+          "name": "1004晾衣服_20261004125941",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004125941",
+          "source_episode_index": 9
+        },
+        {
+          "index": 11,
+          "name": "1004晾衣服_20261004130139",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004130139",
+          "source_episode_index": 10
+        },
+        {
+          "index": 12,
+          "name": "1004晾衣服_20261004130324",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004130324",
+          "source_episode_index": 11
+        },
+        {
+          "index": 13,
+          "name": "1004晾衣服_20261004130418",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004130418",
+          "source_episode_index": 12
+        },
+        {
+          "index": 14,
+          "name": "1004晾衣服_20261004130517",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004130517",
+          "source_episode_index": 13
+        },
+        {
+          "index": 15,
+          "name": "1004晾衣服_20261004130606",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004130606",
+          "source_episode_index": 14
+        },
+        {
+          "index": 16,
+          "name": "1004晾衣服_20261004130658",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004130658",
+          "source_episode_index": 15
+        },
+        {
+          "index": 17,
+          "name": "1004晾衣服_20261004130745",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004130745",
+          "source_episode_index": 16
+        },
+        {
+          "index": 18,
+          "name": "1004晾衣服_20261004130833",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004130833",
+          "source_episode_index": 17
+        },
+        {
+          "index": 19,
+          "name": "1004晾衣服_20261004130924",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004130924",
+          "source_episode_index": 18
+        },
+        {
+          "index": 20,
+          "name": "1004晾衣服_20261004131015",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131015",
+          "source_episode_index": 19
+        },
+        {
+          "index": 21,
+          "name": "1004晾衣服_20261004131107",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131107",
+          "source_episode_index": 20
+        },
+        {
+          "index": 22,
+          "name": "1004晾衣服_20261004131156",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131156",
+          "source_episode_index": 21
+        },
+        {
+          "index": 23,
+          "name": "1004晾衣服_20261004131250",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131250",
+          "source_episode_index": 22
+        },
+        {
+          "index": 24,
+          "name": "1004晾衣服_20261004131341",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131341",
+          "source_episode_index": 23
+        },
+        {
+          "index": 25,
+          "name": "1004晾衣服_20261004131431",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131431",
+          "source_episode_index": 24
+        },
+        {
+          "index": 26,
+          "name": "1004晾衣服_20261004131606",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131606",
+          "source_episode_index": 25
+        },
+        {
+          "index": 27,
+          "name": "1004晾衣服_20261004131656",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131656",
+          "source_episode_index": 26
+        },
+        {
+          "index": 28,
+          "name": "1004晾衣服_20261004131753",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131753",
+          "source_episode_index": 27
+        },
+        {
+          "index": 29,
+          "name": "1004晾衣服_20261004131842",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131842",
+          "source_episode_index": 28
+        },
+        {
+          "index": 30,
+          "name": "1004晾衣服_20261004131929",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004131929",
+          "source_episode_index": 29
+        },
+        {
+          "index": 31,
+          "name": "1004晾衣服_20261004132023",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004132023",
+          "source_episode_index": 30
+        },
+        {
+          "index": 32,
+          "name": "1004晾衣服_20261004132116",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004132116",
+          "source_episode_index": 31
+        },
+        {
+          "index": 33,
+          "name": "1004晾衣服_20261004132203",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004132203",
+          "source_episode_index": 32
+        },
+        {
+          "index": 34,
+          "name": "1004晾衣服_20261004132259",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004132259",
+          "source_episode_index": 33
+        },
+        {
+          "index": 35,
+          "name": "1004晾衣服_20261004132344",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004132344",
+          "source_episode_index": 34
+        },
+        {
+          "index": 36,
+          "name": "1004晾衣服_20261004132432",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004132432",
+          "source_episode_index": 35
+        },
+        {
+          "index": 37,
+          "name": "1004晾衣服_20261004133335",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004133335",
+          "source_episode_index": 36
+        },
+        {
+          "index": 38,
+          "name": "1004晾衣服_20261004133426",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004133426",
+          "source_episode_index": 37
+        },
+        {
+          "index": 39,
+          "name": "1004晾衣服_20261004133514",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004133514",
+          "source_episode_index": 38
+        },
+        {
+          "index": 40,
+          "name": "1004晾衣服_20261004133602",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004133602",
+          "source_episode_index": 39
+        },
+        {
+          "index": 41,
+          "name": "1004晾衣服_20261004133654",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004133654",
+          "source_episode_index": 40
+        },
+        {
+          "index": 42,
+          "name": "1004晾衣服_20261004133741",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004133741",
+          "source_episode_index": 41
+        },
+        {
+          "index": 43,
+          "name": "1004晾衣服_20261004133933",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004133933",
+          "source_episode_index": 42
+        },
+        {
+          "index": 44,
+          "name": "1004晾衣服_20261004134021",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004134021",
+          "source_episode_index": 43
+        },
+        {
+          "index": 45,
+          "name": "1004晾衣服_20261004134112",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004134112",
+          "source_episode_index": 44
+        },
+        {
+          "index": 46,
+          "name": "1004晾衣服_20261004134202",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004134202",
+          "source_episode_index": 45
+        },
+        {
+          "index": 47,
+          "name": "1004晾衣服_20261004134400",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004134400",
+          "source_episode_index": 46
+        },
+        {
+          "index": 48,
+          "name": "1004晾衣服_20261004134449",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004134449",
+          "source_episode_index": 47
+        },
+        {
+          "index": 49,
+          "name": "1004晾衣服_20261004134715",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004134715",
+          "source_episode_index": 48
+        },
+        {
+          "index": 50,
+          "name": "1004晾衣服_20261004134806",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004134806",
+          "source_episode_index": 49
+        },
+        {
+          "index": 51,
+          "name": "1004晾衣服_20261004134857",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004134857",
+          "source_episode_index": 50
+        },
+        {
+          "index": 52,
+          "name": "1004晾衣服_20261004134946",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004134946",
+          "source_episode_index": 51
+        },
+        {
+          "index": 53,
+          "name": "1004晾衣服_20261004135036",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004135036",
+          "source_episode_index": 52
+        },
+        {
+          "index": 54,
+          "name": "1004晾衣服_20261004135131",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004135131",
+          "source_episode_index": 53
+        },
+        {
+          "index": 55,
+          "name": "1004晾衣服_20261004135223",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004135223",
+          "source_episode_index": 54
+        },
+        {
+          "index": 56,
+          "name": "1004晾衣服_20261004135308",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004135308",
+          "source_episode_index": 55
+        },
+        {
+          "index": 57,
+          "name": "1004晾衣服_20261004135353",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004135353",
+          "source_episode_index": 56
+        },
+        {
+          "index": 58,
+          "name": "1004晾衣服_20261004135438",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004135438",
+          "source_episode_index": 57
+        },
+        {
+          "index": 59,
+          "name": "1004晾衣服_20261004135527",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004135527",
+          "source_episode_index": 58
+        },
+        {
+          "index": 60,
+          "name": "1004晾衣服_20261004135610",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004135610",
+          "source_episode_index": 59
+        },
+        {
+          "index": 61,
+          "name": "1004晾衣服_20261004135917",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004135917",
+          "source_episode_index": 60
+        },
+        {
+          "index": 62,
+          "name": "1004晾衣服_20261004140010",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004140010",
+          "source_episode_index": 61
+        },
+        {
+          "index": 63,
+          "name": "1004晾衣服_20261004140058",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004140058",
+          "source_episode_index": 62
+        },
+        {
+          "index": 64,
+          "name": "1004晾衣服_20261004140156",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004140156",
+          "source_episode_index": 63
+        },
+        {
+          "index": 65,
+          "name": "1004晾衣服_20261004140244",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004140244",
+          "source_episode_index": 64
+        },
+        {
+          "index": 66,
+          "name": "1004晾衣服_20261004140329",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004140329",
+          "source_episode_index": 65
+        },
+        {
+          "index": 67,
+          "name": "1004晾衣服_20261004140417",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004140417",
+          "source_episode_index": 66
+        },
+        {
+          "index": 68,
+          "name": "1004晾衣服_20261004140504",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004140504",
+          "source_episode_index": 67
+        },
+        {
+          "index": 69,
+          "name": "1004晾衣服_20261004140607",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004140607",
+          "source_episode_index": 68
+        },
+        {
+          "index": 70,
+          "name": "1004晾衣服_20261004140649",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004140649",
+          "source_episode_index": 69
+        },
+        {
+          "index": 71,
+          "name": "1004晾衣服_20261004141529",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004141529",
+          "source_episode_index": 70
+        },
+        {
+          "index": 72,
+          "name": "1004晾衣服_20261004141614",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004141614",
+          "source_episode_index": 71
+        },
+        {
+          "index": 73,
+          "name": "1004晾衣服_20261004141704",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004141704",
+          "source_episode_index": 72
+        },
+        {
+          "index": 74,
+          "name": "1004晾衣服_20261004141751",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004141751",
+          "source_episode_index": 73
+        },
+        {
+          "index": 75,
+          "name": "1004晾衣服_20261004141837",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004141837",
+          "source_episode_index": 74
+        },
+        {
+          "index": 76,
+          "name": "1004晾衣服_20261004141921",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004141921",
+          "source_episode_index": 75
+        },
+        {
+          "index": 77,
+          "name": "1004晾衣服_20261004142020",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004142020",
+          "source_episode_index": 76
+        },
+        {
+          "index": 78,
+          "name": "1004晾衣服_20261004142111",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004142111",
+          "source_episode_index": 77
+        },
+        {
+          "index": 79,
+          "name": "1004晾衣服_20261004142242",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004142242",
+          "source_episode_index": 78
+        },
+        {
+          "index": 80,
+          "name": "1004晾衣服_20261004142354",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004142354",
+          "source_episode_index": 79
+        },
+        {
+          "index": 81,
+          "name": "1004晾衣服_20261004142705",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004142705",
+          "source_episode_index": 80
+        },
+        {
+          "index": 82,
+          "name": "1004晾衣服_20261004142751",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004142751",
+          "source_episode_index": 81
+        },
+        {
+          "index": 83,
+          "name": "1004晾衣服_20261004142840",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004142840",
+          "source_episode_index": 82
+        },
+        {
+          "index": 84,
+          "name": "1004晾衣服_20261004142929",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004142929",
+          "source_episode_index": 83
+        },
+        {
+          "index": 85,
+          "name": "1004晾衣服_20261004143014",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004143014",
+          "source_episode_index": 84
+        },
+        {
+          "index": 86,
+          "name": "1004晾衣服_20261004143104",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004143104",
+          "source_episode_index": 85
+        },
+        {
+          "index": 87,
+          "name": "1004晾衣服_20261004143259",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004143259",
+          "source_episode_index": 86
+        },
+        {
+          "index": 88,
+          "name": "1004晾衣服_20261004143352",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004143352",
+          "source_episode_index": 87
+        },
+        {
+          "index": 89,
+          "name": "1004晾衣服_20261004143559",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004143559",
+          "source_episode_index": 88
+        },
+        {
+          "index": 90,
+          "name": "1004晾衣服_20261004143644",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004143644",
+          "source_episode_index": 89
+        },
+        {
+          "index": 91,
+          "name": "1004晾衣服_20261004143729",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004143729",
+          "source_episode_index": 90
+        },
+        {
+          "index": 92,
+          "name": "1004晾衣服_20261004143818",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004143818",
+          "source_episode_index": 91
+        },
+        {
+          "index": 93,
+          "name": "1004晾衣服_20261004143902",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004143902",
+          "source_episode_index": 92
+        },
+        {
+          "index": 94,
+          "name": "1004晾衣服_20261004143950",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004143950",
+          "source_episode_index": 93
+        },
+        {
+          "index": 95,
+          "name": "1004晾衣服_20261004144033",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144033",
+          "source_episode_index": 94
+        },
+        {
+          "index": 96,
+          "name": "1004晾衣服_20261004144218",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144218",
+          "source_episode_index": 95
+        },
+        {
+          "index": 97,
+          "name": "1004晾衣服_20261004144303",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144303",
+          "source_episode_index": 96
+        },
+        {
+          "index": 98,
+          "name": "1004晾衣服_20261004144351",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144351",
+          "source_episode_index": 97
+        },
+        {
+          "index": 99,
+          "name": "1004晾衣服_20261004144438",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144438",
+          "source_episode_index": 98
+        },
+        {
+          "index": 100,
+          "name": "1004晾衣服_20261004144529",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144529",
+          "source_episode_index": 99
+        },
+        {
+          "index": 101,
+          "name": "1004晾衣服_20261004144617",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144617",
+          "source_episode_index": 100
+        },
+        {
+          "index": 102,
+          "name": "1004晾衣服_20261004144707",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144707",
+          "source_episode_index": 101
+        },
+        {
+          "index": 103,
+          "name": "1004晾衣服_20261004144755",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144755",
+          "source_episode_index": 102
+        },
+        {
+          "index": 104,
+          "name": "1004晾衣服_20261004144839",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144839",
+          "source_episode_index": 103
+        },
+        {
+          "index": 105,
+          "name": "1004晾衣服_20261004144927",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004144927",
+          "source_episode_index": 104
+        },
+        {
+          "index": 106,
+          "name": "1004晾衣服_20261004145016",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004145016",
+          "source_episode_index": 105
+        },
+        {
+          "index": 107,
+          "name": "1004晾衣服_20261004145105",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004145105",
+          "source_episode_index": 106
+        },
+        {
+          "index": 108,
+          "name": "1004晾衣服_20261004145148",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004145148",
+          "source_episode_index": 107
+        },
+        {
+          "index": 109,
+          "name": "1004晾衣服_20261004145232",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/yifu/1004晾衣服_20261004145232",
+          "source_episode_index": 108
+        }
+      ]
+    },
+    "diguan": {
+      "episodes": [
+        {
+          "index": 0,
+          "name": "1003滴管_20261003141221",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003141221",
+          "source_episode_index": 0
+        },
+        {
+          "index": 1,
+          "name": "1003滴管_20261003141409",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003141409",
+          "source_episode_index": 1
+        },
+        {
+          "index": 2,
+          "name": "1003滴管_20261003141603",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003141603",
+          "source_episode_index": 2
+        },
+        {
+          "index": 3,
+          "name": "1003滴管_20261003142233",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003142233",
+          "source_episode_index": 3
+        },
+        {
+          "index": 4,
+          "name": "1003滴管_20261003143423",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003143423",
+          "source_episode_index": 4
+        },
+        {
+          "index": 5,
+          "name": "1003滴管_20261003143945",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003143945",
+          "source_episode_index": 5
+        },
+        {
+          "index": 6,
+          "name": "1003滴管_20261003144820",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003144820",
+          "source_episode_index": 6
+        },
+        {
+          "index": 7,
+          "name": "1003滴管_20261003145511",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003145511",
+          "source_episode_index": 7
+        },
+        {
+          "index": 8,
+          "name": "1003滴管_20261003150533",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003150533",
+          "source_episode_index": 8
+        },
+        {
+          "index": 9,
+          "name": "1003滴管_20261003150910",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003150910",
+          "source_episode_index": 9
+        },
+        {
+          "index": 10,
+          "name": "1003滴管_20261003151134",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003151134",
+          "source_episode_index": 10
+        },
+        {
+          "index": 11,
+          "name": "1003滴管_20261003151508",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003151508",
+          "source_episode_index": 11
+        },
+        {
+          "index": 12,
+          "name": "1003滴管_20261003151702",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003151702",
+          "source_episode_index": 12
+        },
+        {
+          "index": 13,
+          "name": "1003滴管_20261003152007",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003152007",
+          "source_episode_index": 13
+        },
+        {
+          "index": 14,
+          "name": "1003滴管_20261003152302",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003152302",
+          "source_episode_index": 14
+        },
+        {
+          "index": 15,
+          "name": "1003滴管_20261003152502",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003152502",
+          "source_episode_index": 15
+        },
+        {
+          "index": 16,
+          "name": "1003滴管_20261003153554",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003153554",
+          "source_episode_index": 16
+        },
+        {
+          "index": 17,
+          "name": "1003滴管_20261003155330",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003155330",
+          "source_episode_index": 17
+        },
+        {
+          "index": 18,
+          "name": "1003滴管_20261003155642",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003155642",
+          "source_episode_index": 18
+        },
+        {
+          "index": 19,
+          "name": "1003滴管_20261003155841",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003155841",
+          "source_episode_index": 19
+        },
+        {
+          "index": 20,
+          "name": "1003滴管_20261003160038",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003160038",
+          "source_episode_index": 20
+        },
+        {
+          "index": 21,
+          "name": "1003滴管_20261003160232",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003160232",
+          "source_episode_index": 21
+        },
+        {
+          "index": 22,
+          "name": "1003滴管_20261003160421",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003160421",
+          "source_episode_index": 22
+        },
+        {
+          "index": 23,
+          "name": "1003滴管_20261003160608",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003160608",
+          "source_episode_index": 23
+        },
+        {
+          "index": 24,
+          "name": "1003滴管_20261003160914",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003160914",
+          "source_episode_index": 24
+        },
+        {
+          "index": 25,
+          "name": "1003滴管_20261003161128",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003161128",
+          "source_episode_index": 25
+        },
+        {
+          "index": 26,
+          "name": "1003滴管_20261003161312",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003161312",
+          "source_episode_index": 26
+        },
+        {
+          "index": 27,
+          "name": "1003滴管_20261003161511",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003161511",
+          "source_episode_index": 27
+        },
+        {
+          "index": 28,
+          "name": "1003滴管_20261003163507",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003163507",
+          "source_episode_index": 28
+        },
+        {
+          "index": 29,
+          "name": "1003滴管_20261003163700",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003163700",
+          "source_episode_index": 29
+        },
+        {
+          "index": 30,
+          "name": "1003滴管_20261003163850",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003163850",
+          "source_episode_index": 30
+        },
+        {
+          "index": 31,
+          "name": "1003滴管_20261003164028",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003164028",
+          "source_episode_index": 31
+        },
+        {
+          "index": 32,
+          "name": "1003滴管_20261003164205",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003164205",
+          "source_episode_index": 32
+        },
+        {
+          "index": 33,
+          "name": "1003滴管_20261003164527",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003164527",
+          "source_episode_index": 33
+        },
+        {
+          "index": 34,
+          "name": "1003滴管_20261003164723",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003164723",
+          "source_episode_index": 34
+        },
+        {
+          "index": 35,
+          "name": "1003滴管_20261003164910",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003164910",
+          "source_episode_index": 35
+        },
+        {
+          "index": 36,
+          "name": "1003滴管_20261003165119",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003165119",
+          "source_episode_index": 36
+        },
+        {
+          "index": 37,
+          "name": "1003滴管_20261003165326",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003165326",
+          "source_episode_index": 37
+        },
+        {
+          "index": 38,
+          "name": "1003滴管_20261003165519",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003165519",
+          "source_episode_index": 38
+        },
+        {
+          "index": 39,
+          "name": "1003滴管_20261003165705",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003165705",
+          "source_episode_index": 39
+        },
+        {
+          "index": 40,
+          "name": "1003滴管_20261003165912",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003165912",
+          "source_episode_index": 40
+        },
+        {
+          "index": 41,
+          "name": "1003滴管_20261003170212",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003170212",
+          "source_episode_index": 41
+        },
+        {
+          "index": 42,
+          "name": "1003滴管_20261003170447",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003170447",
+          "source_episode_index": 42
+        },
+        {
+          "index": 43,
+          "name": "1003滴管_20261003171920",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003171920",
+          "source_episode_index": 43
+        },
+        {
+          "index": 44,
+          "name": "1003滴管_20261003172236",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003172236",
+          "source_episode_index": 44
+        },
+        {
+          "index": 45,
+          "name": "1003滴管_20261003172419",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003172419",
+          "source_episode_index": 45
+        },
+        {
+          "index": 46,
+          "name": "1003滴管_20261003172828",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003172828",
+          "source_episode_index": 46
+        },
+        {
+          "index": 47,
+          "name": "1003滴管_20261003173026",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003173026",
+          "source_episode_index": 47
+        },
+        {
+          "index": 48,
+          "name": "1003滴管_20261003173211",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003173211",
+          "source_episode_index": 48
+        },
+        {
+          "index": 49,
+          "name": "1003滴管_20261003173503",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003173503",
+          "source_episode_index": 49
+        },
+        {
+          "index": 50,
+          "name": "1003滴管_20261003173731",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003173731",
+          "source_episode_index": 50
+        },
+        {
+          "index": 51,
+          "name": "1003滴管_20261003173926",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003173926",
+          "source_episode_index": 51
+        },
+        {
+          "index": 52,
+          "name": "1003滴管_20261003174410",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003174410",
+          "source_episode_index": 52
+        },
+        {
+          "index": 53,
+          "name": "1003滴管_20261003175646",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003175646",
+          "source_episode_index": 53
+        },
+        {
+          "index": 54,
+          "name": "1003滴管_20261003175842",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003175842",
+          "source_episode_index": 54
+        },
+        {
+          "index": 55,
+          "name": "1003滴管_20261003180137",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003180137",
+          "source_episode_index": 55
+        },
+        {
+          "index": 56,
+          "name": "1003滴管_20261003180527",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003180527",
+          "source_episode_index": 56
+        },
+        {
+          "index": 57,
+          "name": "1003滴管_20261003181332",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003181332",
+          "source_episode_index": 57
+        },
+        {
+          "index": 58,
+          "name": "1003滴管_20261003181506",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003181506",
+          "source_episode_index": 58
+        },
+        {
+          "index": 59,
+          "name": "1003滴管_20261003181704",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003181704",
+          "source_episode_index": 59
+        },
+        {
+          "index": 60,
+          "name": "1003滴管_20261003192043",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003192043",
+          "source_episode_index": 60
+        },
+        {
+          "index": 61,
+          "name": "1003滴管_20261003192455",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003192455",
+          "source_episode_index": 61
+        },
+        {
+          "index": 62,
+          "name": "1003滴管_20261003192817",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003192817",
+          "source_episode_index": 62
+        },
+        {
+          "index": 63,
+          "name": "1003滴管_20261003192958",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003192958",
+          "source_episode_index": 63
+        },
+        {
+          "index": 64,
+          "name": "1003滴管_20261003193222",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003193222",
+          "source_episode_index": 64
+        },
+        {
+          "index": 65,
+          "name": "1003滴管_20261003193628",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003193628",
+          "source_episode_index": 65
+        },
+        {
+          "index": 66,
+          "name": "1003滴管_20261003194128",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003194128",
+          "source_episode_index": 66
+        },
+        {
+          "index": 67,
+          "name": "1003滴管_20261003194322",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003194322",
+          "source_episode_index": 67
+        },
+        {
+          "index": 68,
+          "name": "1003滴管_20261003194501",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003194501",
+          "source_episode_index": 68
+        },
+        {
+          "index": 69,
+          "name": "1003滴管_20261003194644",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003194644",
+          "source_episode_index": 69
+        },
+        {
+          "index": 70,
+          "name": "1003滴管_20261003195700",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003195700",
+          "source_episode_index": 70
+        },
+        {
+          "index": 71,
+          "name": "1003滴管_20261003195910",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003195910",
+          "source_episode_index": 71
+        },
+        {
+          "index": 72,
+          "name": "1003滴管_20261003200300",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1003滴管_20261003200300",
+          "source_episode_index": 72
+        },
+        {
+          "index": 73,
+          "name": "1004滴管_20261004100905",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004100905",
+          "source_episode_index": 73
+        },
+        {
+          "index": 74,
+          "name": "1004滴管_20261004101051",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004101051",
+          "source_episode_index": 74
+        },
+        {
+          "index": 75,
+          "name": "1004滴管_20261004101226",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004101226",
+          "source_episode_index": 75
+        },
+        {
+          "index": 76,
+          "name": "1004滴管_20261004101402",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004101402",
+          "source_episode_index": 76
+        },
+        {
+          "index": 77,
+          "name": "1004滴管_20261004101605",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004101605",
+          "source_episode_index": 77
+        },
+        {
+          "index": 78,
+          "name": "1004滴管_20261004101743",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004101743",
+          "source_episode_index": 78
+        },
+        {
+          "index": 79,
+          "name": "1004滴管_20261004102227",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004102227",
+          "source_episode_index": 79
+        },
+        {
+          "index": 80,
+          "name": "1004滴管_20261004102400",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004102400",
+          "source_episode_index": 80
+        },
+        {
+          "index": 81,
+          "name": "1004滴管_20261004102529",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004102529",
+          "source_episode_index": 81
+        },
+        {
+          "index": 82,
+          "name": "1004滴管_20261004102702",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004102702",
+          "source_episode_index": 82
+        },
+        {
+          "index": 83,
+          "name": "1004滴管_20261004102839",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004102839",
+          "source_episode_index": 83
+        },
+        {
+          "index": 84,
+          "name": "1004滴管_20261004103731",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004103731",
+          "source_episode_index": 84
+        },
+        {
+          "index": 85,
+          "name": "1004滴管_20261004103906",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004103906",
+          "source_episode_index": 85
+        },
+        {
+          "index": 86,
+          "name": "1004滴管_20261004104210",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004104210",
+          "source_episode_index": 86
+        },
+        {
+          "index": 87,
+          "name": "1004滴管_20261004104336",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004104336",
+          "source_episode_index": 87
+        },
+        {
+          "index": 88,
+          "name": "1004滴管_20261004104536",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004104536",
+          "source_episode_index": 88
+        },
+        {
+          "index": 89,
+          "name": "1004滴管_20261004104906",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004104906",
+          "source_episode_index": 89
+        },
+        {
+          "index": 90,
+          "name": "1004滴管_20261004105046",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004105046",
+          "source_episode_index": 90
+        },
+        {
+          "index": 91,
+          "name": "1004滴管_20261004105233",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004105233",
+          "source_episode_index": 91
+        },
+        {
+          "index": 92,
+          "name": "1004滴管_20261004105400",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004105400",
+          "source_episode_index": 92
+        },
+        {
+          "index": 93,
+          "name": "1004滴管_20261004105532",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004105532",
+          "source_episode_index": 93
+        },
+        {
+          "index": 94,
+          "name": "1004滴管_20261004111434",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004111434",
+          "source_episode_index": 94
+        },
+        {
+          "index": 95,
+          "name": "1004滴管_20261004111603",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004111603",
+          "source_episode_index": 95
+        },
+        {
+          "index": 96,
+          "name": "1004滴管_20261004111845",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004111845",
+          "source_episode_index": 96
+        },
+        {
+          "index": 97,
+          "name": "1004滴管_20261004112022",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004112022",
+          "source_episode_index": 97
+        },
+        {
+          "index": 98,
+          "name": "1004滴管_20261004112143",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004112143",
+          "source_episode_index": 98
+        },
+        {
+          "index": 99,
+          "name": "1004滴管_20261004112310",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004112310",
+          "source_episode_index": 99
+        },
+        {
+          "index": 100,
+          "name": "1004滴管_20261004112440",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004112440",
+          "source_episode_index": 100
+        },
+        {
+          "index": 101,
+          "name": "1004滴管_20261004112723",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004112723",
+          "source_episode_index": 101
+        },
+        {
+          "index": 102,
+          "name": "1004滴管_20261004112921",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004112921",
+          "source_episode_index": 102
+        },
+        {
+          "index": 103,
+          "name": "1004滴管_20261004113104",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/diguan/1004滴管_20261004113104",
+          "source_episode_index": 103
+        }
+      ]
+    },
+    "dengpao": {
+      "episodes": [
+        {
+          "index": 0,
+          "name": "episode_000001",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000001",
+          "source_episode_index": 0
+        },
+        {
+          "index": 1,
+          "name": "episode_000002",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000002",
+          "source_episode_index": 1
+        },
+        {
+          "index": 2,
+          "name": "episode_000003",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000003",
+          "source_episode_index": 2
+        },
+        {
+          "index": 3,
+          "name": "episode_000004",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000004",
+          "source_episode_index": 3
+        },
+        {
+          "index": 4,
+          "name": "episode_000005",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000005",
+          "source_episode_index": 4
+        },
+        {
+          "index": 5,
+          "name": "episode_000006",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000006",
+          "source_episode_index": 5
+        },
+        {
+          "index": 6,
+          "name": "episode_000007",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000007",
+          "source_episode_index": 6
+        },
+        {
+          "index": 7,
+          "name": "episode_000008",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000008",
+          "source_episode_index": 7
+        },
+        {
+          "index": 8,
+          "name": "episode_000009",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000009",
+          "source_episode_index": 8
+        },
+        {
+          "index": 9,
+          "name": "episode_000010",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000010",
+          "source_episode_index": 9
+        },
+        {
+          "index": 10,
+          "name": "episode_000011",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000011",
+          "source_episode_index": 10
+        },
+        {
+          "index": 11,
+          "name": "episode_000012",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000012",
+          "source_episode_index": 11
+        },
+        {
+          "index": 12,
+          "name": "episode_000013",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000013",
+          "source_episode_index": 12
+        },
+        {
+          "index": 13,
+          "name": "episode_000014",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000014",
+          "source_episode_index": 13
+        },
+        {
+          "index": 14,
+          "name": "episode_000015",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000015",
+          "source_episode_index": 14
+        },
+        {
+          "index": 15,
+          "name": "episode_000016",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000016",
+          "source_episode_index": 15
+        },
+        {
+          "index": 16,
+          "name": "episode_000017",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000017",
+          "source_episode_index": 16
+        },
+        {
+          "index": 17,
+          "name": "episode_000018",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000018",
+          "source_episode_index": 17
+        },
+        {
+          "index": 18,
+          "name": "episode_000019",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000019",
+          "source_episode_index": 18
+        },
+        {
+          "index": 19,
+          "name": "episode_000020",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000020",
+          "source_episode_index": 19
+        },
+        {
+          "index": 20,
+          "name": "episode_000021",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000021",
+          "source_episode_index": 20
+        },
+        {
+          "index": 21,
+          "name": "episode_000022",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000022",
+          "source_episode_index": 21
+        },
+        {
+          "index": 22,
+          "name": "episode_000023",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000023",
+          "source_episode_index": 22
+        },
+        {
+          "index": 23,
+          "name": "episode_000024",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000024",
+          "source_episode_index": 23
+        },
+        {
+          "index": 24,
+          "name": "episode_000025",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000025",
+          "source_episode_index": 24
+        },
+        {
+          "index": 25,
+          "name": "episode_000026",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000026",
+          "source_episode_index": 25
+        },
+        {
+          "index": 26,
+          "name": "episode_000027",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000027",
+          "source_episode_index": 26
+        },
+        {
+          "index": 27,
+          "name": "episode_000028",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000028",
+          "source_episode_index": 27
+        },
+        {
+          "index": 28,
+          "name": "episode_000029",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000029",
+          "source_episode_index": 28
+        },
+        {
+          "index": 29,
+          "name": "episode_000030",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000030",
+          "source_episode_index": 29
+        },
+        {
+          "index": 30,
+          "name": "episode_000031",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000031",
+          "source_episode_index": 30
+        },
+        {
+          "index": 31,
+          "name": "episode_000032",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000032",
+          "source_episode_index": 31
+        },
+        {
+          "index": 32,
+          "name": "episode_000033",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000033",
+          "source_episode_index": 32
+        },
+        {
+          "index": 33,
+          "name": "episode_000034",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000034",
+          "source_episode_index": 33
+        },
+        {
+          "index": 34,
+          "name": "episode_000035",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000035",
+          "source_episode_index": 34
+        },
+        {
+          "index": 35,
+          "name": "episode_000036",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000036",
+          "source_episode_index": 35
+        },
+        {
+          "index": 36,
+          "name": "episode_000037",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000037",
+          "source_episode_index": 36
+        },
+        {
+          "index": 37,
+          "name": "episode_000038",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000038",
+          "source_episode_index": 37
+        },
+        {
+          "index": 38,
+          "name": "episode_000039",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000039",
+          "source_episode_index": 38
+        },
+        {
+          "index": 39,
+          "name": "episode_000040",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000040",
+          "source_episode_index": 39
+        },
+        {
+          "index": 40,
+          "name": "episode_000041",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000041",
+          "source_episode_index": 40
+        },
+        {
+          "index": 41,
+          "name": "episode_000042",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000042",
+          "source_episode_index": 41
+        },
+        {
+          "index": 42,
+          "name": "episode_000043",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000043",
+          "source_episode_index": 42
+        },
+        {
+          "index": 43,
+          "name": "episode_000044",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000044",
+          "source_episode_index": 43
+        },
+        {
+          "index": 44,
+          "name": "episode_000045",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000045",
+          "source_episode_index": 44
+        },
+        {
+          "index": 45,
+          "name": "episode_000046",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000046",
+          "source_episode_index": 45
+        },
+        {
+          "index": 46,
+          "name": "episode_000047",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000047",
+          "source_episode_index": 46
+        },
+        {
+          "index": 47,
+          "name": "episode_000048",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000048",
+          "source_episode_index": 47
+        },
+        {
+          "index": 48,
+          "name": "episode_000049",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000049",
+          "source_episode_index": 48
+        },
+        {
+          "index": 49,
+          "name": "episode_000050",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000050",
+          "source_episode_index": 49
+        },
+        {
+          "index": 50,
+          "name": "episode_000051",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000051",
+          "source_episode_index": 50
+        },
+        {
+          "index": 51,
+          "name": "episode_000052",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000052",
+          "source_episode_index": 51
+        },
+        {
+          "index": 52,
+          "name": "episode_000053",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000053",
+          "source_episode_index": 52
+        },
+        {
+          "index": 53,
+          "name": "episode_000054",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000054",
+          "source_episode_index": 53
+        },
+        {
+          "index": 54,
+          "name": "episode_000055",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000055",
+          "source_episode_index": 54
+        },
+        {
+          "index": 55,
+          "name": "episode_000056",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000056",
+          "source_episode_index": 55
+        },
+        {
+          "index": 56,
+          "name": "episode_000057",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000057",
+          "source_episode_index": 56
+        },
+        {
+          "index": 57,
+          "name": "episode_000058",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000058",
+          "source_episode_index": 57
+        },
+        {
+          "index": 58,
+          "name": "episode_000059",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000059",
+          "source_episode_index": 58
+        },
+        {
+          "index": 59,
+          "name": "episode_000060",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000060",
+          "source_episode_index": 59
+        },
+        {
+          "index": 60,
+          "name": "episode_000061",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000061",
+          "source_episode_index": 60
+        },
+        {
+          "index": 61,
+          "name": "episode_000062",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000062",
+          "source_episode_index": 61
+        },
+        {
+          "index": 62,
+          "name": "episode_000063",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000063",
+          "source_episode_index": 62
+        },
+        {
+          "index": 63,
+          "name": "episode_000064",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000064",
+          "source_episode_index": 63
+        },
+        {
+          "index": 64,
+          "name": "episode_000065",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000065",
+          "source_episode_index": 64
+        },
+        {
+          "index": 65,
+          "name": "episode_000066",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000066",
+          "source_episode_index": 65
+        },
+        {
+          "index": 66,
+          "name": "episode_000067",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000067",
+          "source_episode_index": 66
+        },
+        {
+          "index": 67,
+          "name": "episode_000068",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000068",
+          "source_episode_index": 67
+        },
+        {
+          "index": 68,
+          "name": "episode_000069",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000069",
+          "source_episode_index": 68
+        },
+        {
+          "index": 69,
+          "name": "episode_000070",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000070",
+          "source_episode_index": 69
+        },
+        {
+          "index": 70,
+          "name": "episode_000071",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000071",
+          "source_episode_index": 70
+        },
+        {
+          "index": 71,
+          "name": "episode_000072",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000072",
+          "source_episode_index": 71
+        },
+        {
+          "index": 72,
+          "name": "episode_000073",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000073",
+          "source_episode_index": 72
+        },
+        {
+          "index": 73,
+          "name": "episode_000074",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000074",
+          "source_episode_index": 73
+        },
+        {
+          "index": 74,
+          "name": "episode_000075",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000075",
+          "source_episode_index": 74
+        },
+        {
+          "index": 75,
+          "name": "episode_000076",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000076",
+          "source_episode_index": 75
+        },
+        {
+          "index": 76,
+          "name": "episode_000077",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000077",
+          "source_episode_index": 76
+        },
+        {
+          "index": 77,
+          "name": "episode_000078",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000078",
+          "source_episode_index": 77
+        },
+        {
+          "index": 78,
+          "name": "episode_000079",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000079",
+          "source_episode_index": 78
+        },
+        {
+          "index": 79,
+          "name": "episode_000080",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000080",
+          "source_episode_index": 79
+        },
+        {
+          "index": 80,
+          "name": "episode_000081",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000081",
+          "source_episode_index": 80
+        },
+        {
+          "index": 81,
+          "name": "episode_000082",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000082",
+          "source_episode_index": 81
+        },
+        {
+          "index": 82,
+          "name": "episode_000083",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000083",
+          "source_episode_index": 82
+        },
+        {
+          "index": 83,
+          "name": "episode_000084",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000084",
+          "source_episode_index": 83
+        },
+        {
+          "index": 84,
+          "name": "episode_000085",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000085",
+          "source_episode_index": 84
+        },
+        {
+          "index": 85,
+          "name": "episode_000086",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000086",
+          "source_episode_index": 85
+        },
+        {
+          "index": 86,
+          "name": "episode_000087",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000087",
+          "source_episode_index": 86
+        },
+        {
+          "index": 87,
+          "name": "episode_000088",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000088",
+          "source_episode_index": 87
+        },
+        {
+          "index": 88,
+          "name": "episode_000089",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000089",
+          "source_episode_index": 88
+        },
+        {
+          "index": 89,
+          "name": "episode_000090",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000090",
+          "source_episode_index": 89
+        },
+        {
+          "index": 90,
+          "name": "episode_000091",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000091",
+          "source_episode_index": 90
+        },
+        {
+          "index": 91,
+          "name": "episode_000092",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000092",
+          "source_episode_index": 91
+        },
+        {
+          "index": 92,
+          "name": "episode_000093",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000093",
+          "source_episode_index": 92
+        },
+        {
+          "index": 93,
+          "name": "episode_000094",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000094",
+          "source_episode_index": 93
+        },
+        {
+          "index": 94,
+          "name": "episode_000095",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000095",
+          "source_episode_index": 94
+        },
+        {
+          "index": 95,
+          "name": "episode_000096",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000096",
+          "source_episode_index": 95
+        },
+        {
+          "index": 96,
+          "name": "episode_000097",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000097",
+          "source_episode_index": 96
+        },
+        {
+          "index": 97,
+          "name": "episode_000098",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000098",
+          "source_episode_index": 97
+        },
+        {
+          "index": 98,
+          "name": "episode_000099",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000099",
+          "source_episode_index": 98
+        },
+        {
+          "index": 99,
+          "name": "episode_000100",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000100",
+          "source_episode_index": 99
+        },
+        {
+          "index": 100,
+          "name": "episode_000101",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/dengpao/episode_000101",
+          "source_episode_index": 100
+        }
+      ]
+    },
+    "drink": {
+      "episodes": [
+        {
+          "index": 0,
+          "name": "001_1020铲冰_20261021095912",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/001_1020铲冰_20261021095912",
+          "source_episode_index": 0
+        },
+        {
+          "index": 1,
+          "name": "002_1020铲冰_20261021100117",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/002_1020铲冰_20261021100117",
+          "source_episode_index": 1
+        },
+        {
+          "index": 2,
+          "name": "003_1020铲冰_20261021100244",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/003_1020铲冰_20261021100244",
+          "source_episode_index": 2
+        },
+        {
+          "index": 3,
+          "name": "004_1020铲冰_20261021100403",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/004_1020铲冰_20261021100403",
+          "source_episode_index": 3
+        },
+        {
+          "index": 4,
+          "name": "005_1020铲冰_20261021100522",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/005_1020铲冰_20261021100522",
+          "source_episode_index": 4
+        },
+        {
+          "index": 5,
+          "name": "006_1020铲冰_20261021100702",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/006_1020铲冰_20261021100702",
+          "source_episode_index": 5
+        },
+        {
+          "index": 6,
+          "name": "007_1020铲冰_20261021100852",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/007_1020铲冰_20261021100852",
+          "source_episode_index": 6
+        },
+        {
+          "index": 7,
+          "name": "008_1020铲冰_20261021101018",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/008_1020铲冰_20261021101018",
+          "source_episode_index": 7
+        },
+        {
+          "index": 8,
+          "name": "009_1020铲冰_20261021101140",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/009_1020铲冰_20261021101140",
+          "source_episode_index": 8
+        },
+        {
+          "index": 9,
+          "name": "010_1020铲冰_20261021101247",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/010_1020铲冰_20261021101247",
+          "source_episode_index": 9
+        },
+        {
+          "index": 10,
+          "name": "011_1020铲冰_20261021101405",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/011_1020铲冰_20261021101405",
+          "source_episode_index": 10
+        },
+        {
+          "index": 11,
+          "name": "012_1020铲冰_20261021101514",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/012_1020铲冰_20261021101514",
+          "source_episode_index": 11
+        },
+        {
+          "index": 12,
+          "name": "014_1020铲冰_20261021101806",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/014_1020铲冰_20261021101806",
+          "source_episode_index": 12
+        },
+        {
+          "index": 13,
+          "name": "015_1020铲冰_20261021102043",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/015_1020铲冰_20261021102043",
+          "source_episode_index": 13
+        },
+        {
+          "index": 14,
+          "name": "016_1020铲冰_20261021102202",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/016_1020铲冰_20261021102202",
+          "source_episode_index": 14
+        },
+        {
+          "index": 15,
+          "name": "017_1020铲冰_20261021102311",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/017_1020铲冰_20261021102311",
+          "source_episode_index": 15
+        },
+        {
+          "index": 16,
+          "name": "018_1020铲冰_20261021102421",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/018_1020铲冰_20261021102421",
+          "source_episode_index": 16
+        },
+        {
+          "index": 17,
+          "name": "019_1020铲冰_20261021102533",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/019_1020铲冰_20261021102533",
+          "source_episode_index": 17
+        },
+        {
+          "index": 18,
+          "name": "020_1020铲冰_20261021102655",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/020_1020铲冰_20261021102655",
+          "source_episode_index": 18
+        },
+        {
+          "index": 19,
+          "name": "021_1020铲冰_20261021102813",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/021_1020铲冰_20261021102813",
+          "source_episode_index": 19
+        },
+        {
+          "index": 20,
+          "name": "023_1020铲冰_20261021103104",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/023_1020铲冰_20261021103104",
+          "source_episode_index": 20
+        },
+        {
+          "index": 21,
+          "name": "024_1020铲冰_20261021103225",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/024_1020铲冰_20261021103225",
+          "source_episode_index": 21
+        },
+        {
+          "index": 22,
+          "name": "025_1020铲冰_20261021103536",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/025_1020铲冰_20261021103536",
+          "source_episode_index": 22
+        },
+        {
+          "index": 23,
+          "name": "026_1020铲冰_20261021103659",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/026_1020铲冰_20261021103659",
+          "source_episode_index": 23
+        },
+        {
+          "index": 24,
+          "name": "028_1020铲冰_20261021103947",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/028_1020铲冰_20261021103947",
+          "source_episode_index": 24
+        },
+        {
+          "index": 25,
+          "name": "030_1020铲冰_20261021104939",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/030_1020铲冰_20261021104939",
+          "source_episode_index": 25
+        },
+        {
+          "index": 26,
+          "name": "031_1020铲冰_20261021105057",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/031_1020铲冰_20261021105057",
+          "source_episode_index": 26
+        },
+        {
+          "index": 27,
+          "name": "032_1020铲冰_20261021105212",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/032_1020铲冰_20261021105212",
+          "source_episode_index": 27
+        },
+        {
+          "index": 28,
+          "name": "033_1020铲冰_20261021105324",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/033_1020铲冰_20261021105324",
+          "source_episode_index": 28
+        },
+        {
+          "index": 29,
+          "name": "034_1020铲冰_20261021105442",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/034_1020铲冰_20261021105442",
+          "source_episode_index": 29
+        },
+        {
+          "index": 30,
+          "name": "035_1020铲冰_20261021105602",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/035_1020铲冰_20261021105602",
+          "source_episode_index": 30
+        },
+        {
+          "index": 31,
+          "name": "036_1020铲冰_20261021105821",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/036_1020铲冰_20261021105821",
+          "source_episode_index": 31
+        },
+        {
+          "index": 32,
+          "name": "037_1020铲冰_20261021105934",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/037_1020铲冰_20261021105934",
+          "source_episode_index": 32
+        },
+        {
+          "index": 33,
+          "name": "038_1020铲冰_20261021110053",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/038_1020铲冰_20261021110053",
+          "source_episode_index": 33
+        },
+        {
+          "index": 34,
+          "name": "040_1020铲冰_20261021110336",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/040_1020铲冰_20261021110336",
+          "source_episode_index": 34
+        },
+        {
+          "index": 35,
+          "name": "041_1020铲冰_20261021110500",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/041_1020铲冰_20261021110500",
+          "source_episode_index": 35
+        },
+        {
+          "index": 36,
+          "name": "042_1020铲冰_20261021110615",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/042_1020铲冰_20261021110615",
+          "source_episode_index": 36
+        },
+        {
+          "index": 37,
+          "name": "044_1020铲冰_20261021110938",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/044_1020铲冰_20261021110938",
+          "source_episode_index": 37
+        },
+        {
+          "index": 38,
+          "name": "045_1020铲冰_20261021111108",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/045_1020铲冰_20261021111108",
+          "source_episode_index": 38
+        },
+        {
+          "index": 39,
+          "name": "046_1020铲冰_20261021111224",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/046_1020铲冰_20261021111224",
+          "source_episode_index": 39
+        },
+        {
+          "index": 40,
+          "name": "048_1020铲冰_20261021112339",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/048_1020铲冰_20261021112339",
+          "source_episode_index": 40
+        },
+        {
+          "index": 41,
+          "name": "049_1020铲冰_20261021112502",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/049_1020铲冰_20261021112502",
+          "source_episode_index": 41
+        },
+        {
+          "index": 42,
+          "name": "052_1020铲冰_20261021113121",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/052_1020铲冰_20261021113121",
+          "source_episode_index": 42
+        },
+        {
+          "index": 43,
+          "name": "053_1020铲冰_20261021113443",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/053_1020铲冰_20261021113443",
+          "source_episode_index": 43
+        },
+        {
+          "index": 44,
+          "name": "054_1020铲冰_20261021113604",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/054_1020铲冰_20261021113604",
+          "source_episode_index": 44
+        },
+        {
+          "index": 45,
+          "name": "055_1020铲冰_20261021113729",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/055_1020铲冰_20261021113729",
+          "source_episode_index": 45
+        },
+        {
+          "index": 46,
+          "name": "056_1020铲冰_20261021114604",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/056_1020铲冰_20261021114604",
+          "source_episode_index": 46
+        },
+        {
+          "index": 47,
+          "name": "057_1020铲冰_20261021114724",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/057_1020铲冰_20261021114724",
+          "source_episode_index": 47
+        },
+        {
+          "index": 48,
+          "name": "058_1020铲冰_20261021114947",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/058_1020铲冰_20261021114947",
+          "source_episode_index": 48
+        },
+        {
+          "index": 49,
+          "name": "059_1020铲冰_20261021120153",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/059_1020铲冰_20261021120153",
+          "source_episode_index": 49
+        },
+        {
+          "index": 50,
+          "name": "062_1020铲冰_20261021120752",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/062_1020铲冰_20261021120752",
+          "source_episode_index": 50
+        },
+        {
+          "index": 51,
+          "name": "063_1020铲冰_20261021150036",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/063_1020铲冰_20261021150036",
+          "source_episode_index": 51
+        },
+        {
+          "index": 52,
+          "name": "064_1020铲冰_20261021151309",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/064_1020铲冰_20261021151309",
+          "source_episode_index": 52
+        },
+        {
+          "index": 53,
+          "name": "065_1020铲冰_20261021151620",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/065_1020铲冰_20261021151620",
+          "source_episode_index": 53
+        },
+        {
+          "index": 54,
+          "name": "066_1020铲冰_20261021160053",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/066_1020铲冰_20261021160053",
+          "source_episode_index": 54
+        },
+        {
+          "index": 55,
+          "name": "067_1020铲冰_20261021160216",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/067_1020铲冰_20261021160216",
+          "source_episode_index": 55
+        },
+        {
+          "index": 56,
+          "name": "068_1020铲冰_20261021160506",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/068_1020铲冰_20261021160506",
+          "source_episode_index": 56
+        },
+        {
+          "index": 57,
+          "name": "069_1020铲冰_20261021160632",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/069_1020铲冰_20261021160632",
+          "source_episode_index": 57
+        },
+        {
+          "index": 58,
+          "name": "070_1020铲冰_20261021160756",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/070_1020铲冰_20261021160756",
+          "source_episode_index": 58
+        },
+        {
+          "index": 59,
+          "name": "071_1020铲冰_20261021160918",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/071_1020铲冰_20261021160918",
+          "source_episode_index": 59
+        },
+        {
+          "index": 60,
+          "name": "072_1020铲冰_20261021161036",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/072_1020铲冰_20261021161036",
+          "source_episode_index": 60
+        },
+        {
+          "index": 61,
+          "name": "073_1020铲冰_20261021161149",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/073_1020铲冰_20261021161149",
+          "source_episode_index": 61
+        },
+        {
+          "index": 62,
+          "name": "074_1020铲冰_20261021161451",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/074_1020铲冰_20261021161451",
+          "source_episode_index": 62
+        },
+        {
+          "index": 63,
+          "name": "075_1020铲冰_20261021161616",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/075_1020铲冰_20261021161616",
+          "source_episode_index": 63
+        },
+        {
+          "index": 64,
+          "name": "076_1020铲冰_20261021161735",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/076_1020铲冰_20261021161735",
+          "source_episode_index": 64
+        },
+        {
+          "index": 65,
+          "name": "077_1020铲冰_20261021161903",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/077_1020铲冰_20261021161903",
+          "source_episode_index": 65
+        },
+        {
+          "index": 66,
+          "name": "078_1020铲冰_20261021162025",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/078_1020铲冰_20261021162025",
+          "source_episode_index": 66
+        },
+        {
+          "index": 67,
+          "name": "079_1020铲冰_20261021162144",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/079_1020铲冰_20261021162144",
+          "source_episode_index": 67
+        },
+        {
+          "index": 68,
+          "name": "080_1020铲冰_20261021162312",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/080_1020铲冰_20261021162312",
+          "source_episode_index": 68
+        },
+        {
+          "index": 69,
+          "name": "081_1020铲冰_20261021162758",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/081_1020铲冰_20261021162758",
+          "source_episode_index": 69
+        },
+        {
+          "index": 70,
+          "name": "082_1020铲冰_20261021162921",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/082_1020铲冰_20261021162921",
+          "source_episode_index": 70
+        },
+        {
+          "index": 71,
+          "name": "083_1020铲冰_20261021163230",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/083_1020铲冰_20261021163230",
+          "source_episode_index": 71
+        },
+        {
+          "index": 72,
+          "name": "084_1020铲冰_20261021163343",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/084_1020铲冰_20261021163343",
+          "source_episode_index": 72
+        },
+        {
+          "index": 73,
+          "name": "085_1020铲冰_20261021163504",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/085_1020铲冰_20261021163504",
+          "source_episode_index": 73
+        },
+        {
+          "index": 74,
+          "name": "086_1020铲冰_20261021163806",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/086_1020铲冰_20261021163806",
+          "source_episode_index": 74
+        },
+        {
+          "index": 75,
+          "name": "087_1020铲冰_20261021163927",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/087_1020铲冰_20261021163927",
+          "source_episode_index": 75
+        },
+        {
+          "index": 76,
+          "name": "088_1020铲冰_20261021164044",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/088_1020铲冰_20261021164044",
+          "source_episode_index": 76
+        },
+        {
+          "index": 77,
+          "name": "089_1020铲冰_20261021164208",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/089_1020铲冰_20261021164208",
+          "source_episode_index": 77
+        },
+        {
+          "index": 78,
+          "name": "090_1020铲冰_20261021165100",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/090_1020铲冰_20261021165100",
+          "source_episode_index": 78
+        },
+        {
+          "index": 79,
+          "name": "091_1020铲冰_20261021165321",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/091_1020铲冰_20261021165321",
+          "source_episode_index": 79
+        },
+        {
+          "index": 80,
+          "name": "092_1020铲冰_20261021165445",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/092_1020铲冰_20261021165445",
+          "source_episode_index": 80
+        },
+        {
+          "index": 81,
+          "name": "093_1020铲冰_20261021165808",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/093_1020铲冰_20261021165808",
+          "source_episode_index": 81
+        },
+        {
+          "index": 82,
+          "name": "094_1020铲冰_20261021165932",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/094_1020铲冰_20261021165932",
+          "source_episode_index": 82
+        },
+        {
+          "index": 83,
+          "name": "095_1020铲冰_20261021170315",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/095_1020铲冰_20261021170315",
+          "source_episode_index": 83
+        },
+        {
+          "index": 84,
+          "name": "096_1020铲冰_20261021170448",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/096_1020铲冰_20261021170448",
+          "source_episode_index": 84
+        },
+        {
+          "index": 85,
+          "name": "097_1020铲冰_20261021170620",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/097_1020铲冰_20261021170620",
+          "source_episode_index": 85
+        },
+        {
+          "index": 86,
+          "name": "098_1020铲冰_20261021170734",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/098_1020铲冰_20261021170734",
+          "source_episode_index": 86
+        },
+        {
+          "index": 87,
+          "name": "099_1020铲冰_20261021171018",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/099_1020铲冰_20261021171018",
+          "source_episode_index": 87
+        },
+        {
+          "index": 88,
+          "name": "100_1020铲冰_20261021171139",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/100_1020铲冰_20261021171139",
+          "source_episode_index": 88
+        },
+        {
+          "index": 89,
+          "name": "101_1020铲冰_20261021171247",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/101_1020铲冰_20261021171247",
+          "source_episode_index": 89
+        },
+        {
+          "index": 90,
+          "name": "102_1020铲冰_20261021171537",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/102_1020铲冰_20261021171537",
+          "source_episode_index": 90
+        },
+        {
+          "index": 91,
+          "name": "103_1020铲冰_20261021171650",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/103_1020铲冰_20261021171650",
+          "source_episode_index": 91
+        },
+        {
+          "index": 92,
+          "name": "104_1020铲冰_20261021171759",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/104_1020铲冰_20261021171759",
+          "source_episode_index": 92
+        },
+        {
+          "index": 93,
+          "name": "105_1020铲冰_20261021171921",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/105_1020铲冰_20261021171921",
+          "source_episode_index": 93
+        },
+        {
+          "index": 94,
+          "name": "106_1020铲冰_20261021172038",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/106_1020铲冰_20261021172038",
+          "source_episode_index": 94
+        },
+        {
+          "index": 95,
+          "name": "107_1020铲冰_20261021172145",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/107_1020铲冰_20261021172145",
+          "source_episode_index": 95
+        },
+        {
+          "index": 96,
+          "name": "108_1020铲冰_20261021172251",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/108_1020铲冰_20261021172251",
+          "source_episode_index": 96
+        },
+        {
+          "index": 97,
+          "name": "109_1020铲冰_20261021172407",
+          "format": "raw",
+          "path": "/data/sharpa/pose_studio/data/raw_data/chanbing/109_1020铲冰_20261021172407",
+          "source_episode_index": 97
+        }
+      ]
+    }
+  }
+}

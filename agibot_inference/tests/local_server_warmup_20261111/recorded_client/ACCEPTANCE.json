@@ -1,0 +1,177 @@
+{
+  "passed": true,
+  "requests": 12,
+  "checkpoint_sha256": "61ca8628e35b5a9a802b3c0241fe3fbb72c79243bb106f285b7f1b17cfe6174d",
+  "deployment_id": "85a9608aa0ecb041c2fe24fbc13b551a0ac82160d4faeee9acd24c178142c38b",
+  "results": [
+    {
+      "response_age_s": 0.39976875,
+      "task": "3B/basket",
+      "repeat": 0,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.36445309600094333,
+      "roundtrip_s": 0.3936233389831614,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.392475155,
+      "task": "3B/basket",
+      "repeat": 1,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.35795710200909525,
+      "roundtrip_s": 0.38684096999350004,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.401343745,
+      "task": "3B/book",
+      "repeat": 0,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.36296655199839734,
+      "roundtrip_s": 0.3954214219993446,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.395558097,
+      "task": "3B/book",
+      "repeat": 1,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.3591262469999492,
+      "roundtrip_s": 0.38987511102459393,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.394339904,
+      "task": "g2/dengpao",
+      "repeat": 0,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.3646590959979221,
+      "roundtrip_s": 0.3886007519904524,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.392568154,
+      "task": "g2/dengpao",
+      "repeat": 1,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.35783908498706296,
+      "roundtrip_s": 0.38691850000759587,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.376487964,
+      "task": "g2/diguan",
+      "repeat": 0,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.3610733980021905,
+      "roundtrip_s": 0.37084153600153513,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.370520499,
+      "task": "g2/diguan",
+      "repeat": 1,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.354982842982281,
+      "roundtrip_s": 0.36482365601114,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.393771385,
+      "task": "g2/yifu",
+      "repeat": 0,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.3635521109972615,
+      "roundtrip_s": 0.38771002198336646,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.390551792,
+      "task": "g2/yifu",
+      "repeat": 1,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.35844218701822683,
+      "roundtrip_s": 0.38487782201264054,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.392640625,
+      "task": "g2/drink_head_only",
+      "repeat": 0,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.36370213399641216,
+      "roundtrip_s": 0.38697661500191316,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    },
+    {
+      "response_age_s": 0.390348754,
+      "task": "g2/drink_head_only",
+      "repeat": 1,
+      "shape": [
+        32,
+        78
+      ],
+      "inference_s": 0.3580866339907516,
+      "roundtrip_s": 0.38465877500129864,
+      "reference_max_abs": 0.0,
+      "reference_mean_abs": 0.0,
+      "robot_io": false
+    }
+  ],
+  "robot_io": false
+}

@@ -1,0 +1,10 @@
+{
+  "wire_protocol": "egoav78_paired_history_v4",
+  "model": "joint_relative_history",
+  "ssh_host": "zw",
+  "server_host": "10.0.45.36",
+  "server_port": 8886,
+  "tasks_file": "deployed_tasks78.json",
+  "deployment_id": "4e784baffa76a9e8e0daa51b42b906fc486583a7fc2ae69163ff73c35b49e379",
+  "checkpoint_sha256": "0a672f78e8103c600adf635ce2eae14412a43253817c7346e73193c996c3beb5"
+}

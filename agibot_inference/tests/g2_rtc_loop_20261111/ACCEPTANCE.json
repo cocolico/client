@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "tasks": 4,
+  "results": [
+    {
+      "task": "dengpao",
+      "sent": 328,
+      "handoffs": 2,
+      "mean_send_interval_s": 0.00999951350152905,
+      "max_send_interval_s": 0.016528509,
+      "actual_model": true,
+      "recorded_inputs": true,
+      "robot_io": false,
+      "execution": "fake_sender",
+      "log": "/home/descfly/code/agibot_inference/tests/g2_rtc_loop_20261111/dengpao-254373833730406.jsonl"
+    },
+    {
+      "task": "diguan",
+      "sent": 328,
+      "handoffs": 2,
+      "mean_send_interval_s": 0.009999623186544342,
+      "max_send_interval_s": 0.011625749,
+      "actual_model": true,
+      "recorded_inputs": true,
+      "robot_io": false,
+      "execution": "fake_sender",
+      "log": "/home/descfly/code/agibot_inference/tests/g2_rtc_loop_20261111/diguan-254378066467478.jsonl"
+    },
+    {
+      "task": "yifu",
+      "sent": 328,
+      "handoffs": 2,
+      "mean_send_interval_s": 0.00999959781345566,
+      "max_send_interval_s": 0.015781515,
+      "actual_model": true,
+      "recorded_inputs": true,
+      "robot_io": false,
+      "execution": "fake_sender",
+      "log": "/home/descfly/code/agibot_inference/tests/g2_rtc_loop_20261111/yifu-254382253550099.jsonl"
+    },
+    {
+      "task": "drink",
+      "sent": 328,
+      "handoffs": 2,
+      "mean_send_interval_s": 0.009999492299694188,
+      "max_send_interval_s": 0.018320135,
+      "actual_model": true,
+      "recorded_inputs": true,
+      "robot_io": false,
+      "execution": "fake_sender",
+      "log": "/home/descfly/code/agibot_inference/tests/g2_rtc_loop_20261111/drink-254386476588428.jsonl"
+    }
+  ],
+  "robot_io": false
+}

@@ -1,0 +1,18 @@
+{
+  "deployment_id": "d99da6cf9d436a71b274972cf61bb49d619dc82f13ff7600bd1500019f5ef78e",
+  "checkpoint_sha256": "2fa3e4903af680850c0f027a9f47a4e1c5a59c8cb76201478540b37c6afa7a40",
+  "checkpoint_step": 30000,
+  "normalization_sha256": "97a5db9473607027df29802a1f96d9db25bd8adaf7314924bc1099e04928f3cd",
+  "wire_protocol": "egoav78_aligned_c0_v4",
+  "model": "c0_lr",
+  "ssh_host": "zw",
+  "server_host": "10.0.46.178",
+  "server_port": 8894,
+  "tasks_file": "tasks_c0_lr.json",
+  "expected_experiment": "aligned_camera_c0",
+  "model_native_dim": 78,
+  "conditioning": "image_history_current_proprio",
+  "proprio_history": false,
+  "denoise_steps": 10,
+  "compile": true
+}

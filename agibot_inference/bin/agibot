@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+# One entrypoint for local inference. Physical motion requires --execute.
+set -eo pipefail
+export PYTHONDONTWRITEBYTECODE=1
+ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
+ACTION="${1:-help}"
+if (($#)); then shift; fi
+if [[ "$ACTION" == hand ]]; then
+  exec env -u LD_LIBRARY_PATH -u PYTHONPATH \
+    /home/descfly/code/sharpa/.venv/bin/python "$ROOT/scripts/sharpa_position.py" "$@"
+fi
+source "$ROOT/env.sh" >/dev/null
+set -u
+CLIENT_PY="$(command -v python)"
+case "$ACTION" in
+  server) exec bash "$ROOT/server/server.sh" "$@" ;;
+  test)
+    for arg in "$@"; do
+      case "$arg" in
+        --execute|--execute=*)
+          echo "$ACTION is read-only; --execute is not allowed" >&2
+          exit 2
+          ;;
+      esac
+    done
+    exec "$CLIENT_PY" "$ROOT/scripts/run_ours_client.py" --test "$@"
+    ;;
+  replay) exec "$CLIENT_PY" "$ROOT/scripts/replay.py" "$@" ;;
+  eef-replay) exec "$CLIENT_PY" "$ROOT/scripts/replay_eef.py" "$@" ;;
+  once|interactive)
+    echo "Current robot has Sharpa hands, not the checkpoint's old grippers; only offline test is supported." >&2
+    exit 2
+    ;;
+  help|-h|--help)
+    cat <<'HELP'
+Usage: bin/agibot server {start|restart|status|stop|logs} [--task TASK --model MODEL]
+       bin/agibot test --task TASK --model MODEL
+       bin/agibot hand {schema|read|move} [OPTIONS]
+       bin/agibot replay EPISODE
+       bin/agibot eef-replay EPISODE [--side left|right --seconds 1.25 --execute]
+Tasks: guizi clothes dengpao shuiping (shuibei alias)
+Models: fastwam ours pi05 (offline test only on this robot)
+HELP
+    ;;
+  *) echo "Unknown command: $ACTION" >&2; exit 2 ;;
+esac

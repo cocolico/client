@@ -1,0 +1,12 @@
+{"event": "CONFIG", "monotonic_ns": 254373834407299, "task": "dengpao", "steps": 32, "settings": {"action_dt_s": 0.05, "servo_dt_s": 0.01, "blend_s": 0.1, "initial_lead_s": 0.75, "planning_reserve_s": 0.15, "margin_s": 0.1}, "ema": false, "extra_filter": false, "baseline_entry": "run_inference.sh", "scheduler": "async_prefetch_timestamp_crossfade; no model prefix conditioning"}
+{"event": "STREAM_START", "monotonic_ns": 254374633949993, "first_tick_ns": 254374781814944, "initial_wait_retimed": true}
+{"event": "PREFETCH", "monotonic_ns": 254375624048917, "queue_remaining_s": 0.75, "lead_s": 0.75}
+{"event": "SERVO_STATS", "monotonic_ns": 254375771874961, "sent": 100, "interval_min_s": 0.003506265, "interval_max_s": 0.016528609, "max_late_s": 0.006589817, "queue_remaining_s": 0.6}
+{"event": "NEXT_READY", "monotonic_ns": 254376021870946, "switch_ns": 254376161814944, "infer_s": 0.386347032, "planning_s": 0.008476451, "observation_age_at_switch_s": 0.544767723, "skipped_prediction_frames": 10, "request_id": "2a6202fb92b04851834434763d2c71a3", "sample_ns": 254375617047221}
+{"event": "HANDOFF", "monotonic_ns": 254376161889529, "switch": 1, "time_ns": 254376161814944, "blend_s": 0.1}
+{"event": "PREFETCH", "monotonic_ns": 254376463198385, "queue_remaining_s": 0.75, "lead_s": 0.75}
+{"event": "SERVO_STATS", "monotonic_ns": 254376771882708, "sent": 200, "interval_min_s": 0.004635512, "interval_max_s": 0.015416473, "max_late_s": 0.00547455, "queue_remaining_s": 0.44}
+{"event": "NEXT_READY", "monotonic_ns": 254376861872166, "switch_ns": 254377001814944, "infer_s": 0.385678066, "planning_s": 0.008208912, "observation_age_at_switch_s": 0.544840003, "skipped_prediction_frames": 10, "request_id": "a30d22e429a049858c9daf72354e8ba1", "sample_ns": 254376456974941}
+{"event": "HANDOFF", "monotonic_ns": 254377001881362, "switch": 2, "time_ns": 254377001814944, "blend_s": 0.1}
+{"event": "SERVO_STATS", "monotonic_ns": 254377771878240, "sent": 300, "interval_min_s": 0.008896965, "interval_max_s": 0.011139111, "max_late_s": 0.00119403, "queue_remaining_s": 0.28}
+{"event": "COMPLETE", "monotonic_ns": 254378051871826, "sent": 328, "switches": 2}

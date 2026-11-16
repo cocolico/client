@@ -1,0 +1,9 @@
+{
+  "wire_protocol": "egoav78_v4",
+  "model": "tri_relative",
+  "ssh_host": "zw",
+  "server_host": "10.0.45.36",
+  "server_port": 8888,
+  "tasks_file": "deployed_tasks78.json",
+  "deployment_id": "4190b8fc47be4facb93db78e1026375bcca56e1329c317e241fd1f6abde46246"
+}

@@ -1,0 +1,182 @@
+{
+  "schema": "g2_tablet_reset_pose_record_v1",
+  "recorded_at": "2026-11-10T11:10:49.048158+08:00",
+  "original_tablet_read_date": "2026-11-09",
+  "source_robot": "agi",
+  "source_snapshot": "/data/agi/disk_recovery_20261109/feedback_check_final.log",
+  "current_tablet_rechecked": false,
+  "current_tablet_status": "No ADB tablet connected on real or agi at recording time",
+  "snapshot_schema_validated": true,
+  "motion_sent": false,
+  "pose": {
+    "schema": "agibot.tablet_pose.export.v1",
+    "pose_id": 6,
+    "name": "G2零点",
+    "unit": "rad",
+    "joint_names": [
+      "idx11_head_joint1",
+      "idx12_head_joint2",
+      "idx13_head_joint3",
+      "idx01_body_joint1",
+      "idx02_body_joint2",
+      "idx03_body_joint3",
+      "idx04_body_joint4",
+      "idx05_body_joint5",
+      "idx21_arm_l_joint1",
+      "idx22_arm_l_joint2",
+      "idx23_arm_l_joint3",
+      "idx24_arm_l_joint4",
+      "idx25_arm_l_joint5",
+      "idx26_arm_l_joint6",
+      "idx27_arm_l_joint7",
+      "idx61_arm_r_joint1",
+      "idx62_arm_r_joint2",
+      "idx63_arm_r_joint3",
+      "idx64_arm_r_joint4",
+      "idx65_arm_r_joint5",
+      "idx66_arm_r_joint6",
+      "idx67_arm_r_joint7"
+    ],
+    "joint_positions": [
+      -0.002415637684255443,
+      0.043711539048432876,
+      0.005176366466261781,
+      -0.25872246467482535,
+      0.957819513534959,
+      -0.780864467299417,
+      0.0,
+      0.0,
+      1.6910225703881383,
+      -1.5002267690312698,
+      -1.5489347037225447,
+      -1.6701741935578267,
+      1.5691933168715562,
+      0.0037405162774597446,
+      -0.01406360776868504,
+      -1.726682130936731,
+      -1.4683804390447506,
+      1.538591838260226,
+      -1.6606167741958042,
+      -1.570379036083692,
+      0.0007811317793311661,
+      0.03475736812400975
+    ],
+    "source": "/data/user/0/com.agibot.hmi.system.hmi_joint_control/shared_prefs/FlutterSharedPreferences.xml",
+    "source_sha256": "db9cdc555c02f37d03f9bb8649418c6ba5379694e1e99aa14da6bf3c0ceb5a99",
+    "motion_enabled": false,
+    "note": "Body joints only, no Sharpa fingers. Export is not a safety/limits check. Factory takeover arbitration and reset completion are not verified."
+  },
+  "joints": [
+    {
+      "name": "idx11_head_joint1",
+      "position_rad": -0.002415637684255443,
+      "position_deg": -0.13840584414059265
+    },
+    {
+      "name": "idx12_head_joint2",
+      "position_rad": 0.043711539048432876,
+      "position_deg": 2.5044867034964984
+    },
+    {
+      "name": "idx13_head_joint3",
+      "position_rad": 0.005176366466261781,
+      "position_deg": 0.2965839517298481
+    },
+    {
+      "name": "idx01_body_joint1",
+      "position_rad": -0.25872246467482535,
+      "position_deg": -14.823705291090024
+    },
+    {
+      "name": "idx02_body_joint2",
+      "position_rad": 0.957819513534959,
+      "position_deg": 54.87901566082678
+    },
+    {
+      "name": "idx03_body_joint3",
+      "position_rad": -0.780864467299417,
+      "position_deg": -44.740238347987884
+    },
+    {
+      "name": "idx04_body_joint4",
+      "position_rad": 0.0,
+      "position_deg": 0.0
+    },
+    {
+      "name": "idx05_body_joint5",
+      "position_rad": 0.0,
+      "position_deg": 0.0
+    },
+    {
+      "name": "idx21_arm_l_joint1",
+      "position_rad": 1.6910225703881383,
+      "position_deg": 96.8884563446045
+    },
+    {
+      "name": "idx22_arm_l_joint2",
+      "position_rad": -1.5002267690312698,
+      "position_deg": -85.95666217803952
+    },
+    {
+      "name": "idx23_arm_l_joint3",
+      "position_rad": -1.5489347037225447,
+      "position_deg": -88.74742126464841
+    },
+    {
+      "name": "idx24_arm_l_joint4",
+      "position_rad": -1.6701741935578267,
+      "position_deg": -95.69393234252932
+    },
+    {
+      "name": "idx25_arm_l_joint5",
+      "position_rad": 1.5691933168715562,
+      "position_deg": 89.90815429687501
+    },
+    {
+      "name": "idx26_arm_l_joint6",
+      "position_rad": 0.0037405162774597446,
+      "position_deg": 0.21431579589842897
+    },
+    {
+      "name": "idx27_arm_l_joint7",
+      "position_rad": -0.01406360776868504,
+      "position_deg": -0.8057853698730497
+    },
+    {
+      "name": "idx61_arm_r_joint1",
+      "position_rad": -1.726682130936731,
+      "position_deg": -98.93159866333008
+    },
+    {
+      "name": "idx62_arm_r_joint2",
+      "position_rad": -1.4683804390447506,
+      "position_deg": -84.13200187683104
+    },
+    {
+      "name": "idx63_arm_r_joint3",
+      "position_rad": 1.538591838260226,
+      "position_deg": 88.15481872558593
+    },
+    {
+      "name": "idx64_arm_r_joint4",
+      "position_rad": -1.6606167741958042,
+      "position_deg": -95.14633255004881
+    },
+    {
+      "name": "idx65_arm_r_joint5",
+      "position_rad": -1.570379036083692,
+      "position_deg": -89.97609100341796
+    },
+    {
+      "name": "idx66_arm_r_joint6",
+      "position_rad": 0.0007811317793311661,
+      "position_deg": 0.04475555419922017
+    },
+    {
+      "name": "idx67_arm_r_joint7",
+      "position_rad": 0.03475736812400975,
+      "position_deg": 1.9914505004882985
+    }
+  ],
+  "pose_sha256": "7de3cefa05292522b36735dd46dd281dab791aee369719e3543344c115959a56"
+}

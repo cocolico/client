@@ -1,0 +1,182 @@
+{
+  "passed": true,
+  "original_files_checked": 222,
+  "changed_originals": [],
+  "backup": "/home/descfly/code/agibot_inference/backups/rtc_isolated_20261111T154558",
+  "new_files": {
+    "run_inference_rtc.sh": "236e80fd593f66a07e21b2370a4b6d731647caab75d260864db3ef545de7842c",
+    "scripts/run_mixed76_client_rtc.py": "185ca294aecb61109589da45a507e91a78499a80b94fecc6a5868618df2ceb10",
+    "scripts/g2_rtc.py": "f2d1fd670aa9e988d63140f19f9e6b084f8c51c2c08de18abc6f63e71a49162e",
+    "configs/g2_rtc.json": "c07033dc72f75705fa7a28d4313a28a9d04d6e94f990b14981a9228743fcc1cf",
+    "docs/G2_RTC.md": "fe28d8c324ce1eaf7f29d09deabae9be8199b14c0f2ed5e33bf58aae0a88e380",
+    "tests/test_g2_rtc.py": "50ae8649ea4c55ccfc7677540d392c0d1b8a5831f57b73270bae377dcea54775",
+    "tests/probe_g2_rtc_recorded.py": "5eaf21544d93a2ac3e00a17ec96e54be6c68f5b56781055bfaaa62dea579f612",
+    "tests/probe_g2_rtc_loop.py": "70025a8e11e01f3deb60961eebe759729b84dad99b46cb7937220ba8479ba707"
+  },
+  "rtc_unit_tests": 11,
+  "baseline_regression": {
+    "passed": true,
+    "tests": 38,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "robot_io": false
+  },
+  "actual_model_worker": {
+    "passed": true,
+    "requests": 8,
+    "tasks": 4,
+    "results": [
+      {
+        "task": "dengpao",
+        "repeat": 0,
+        "infer_s": 0.408055573,
+        "planning_s": 0.008240846,
+        "worker_roundtrip_s": 0.4259353029774502,
+        "skipped_frames": 11,
+        "subframes": 103,
+        "blend_s": 0.1,
+        "robot_io": false
+      },
+      {
+        "task": "dengpao",
+        "repeat": 1,
+        "infer_s": 0.382481719,
+        "planning_s": 0.008284017,
+        "worker_roundtrip_s": 0.3927789209992625,
+        "skipped_frames": 10,
+        "subframes": 106,
+        "blend_s": 0.1,
+        "robot_io": false
+      },
+      {
+        "task": "diguan",
+        "repeat": 0,
+        "infer_s": 1.088406248,
+        "planning_s": 0.004287229,
+        "worker_roundtrip_s": 1.0951906059926841,
+        "skipped_frames": 25,
+        "subframes": 35,
+        "blend_s": 0.1,
+        "robot_io": false
+      },
+      {
+        "task": "diguan",
+        "repeat": 1,
+        "infer_s": 0.363440627,
+        "planning_s": 0.008501071,
+        "worker_roundtrip_s": 0.373908918001689,
+        "skipped_frames": 10,
+        "subframes": 108,
+        "blend_s": 0.1,
+        "robot_io": false
+      },
+      {
+        "task": "yifu",
+        "repeat": 0,
+        "infer_s": 0.387634048,
+        "planning_s": 0.008243311,
+        "worker_roundtrip_s": 0.39793877498595975,
+        "skipped_frames": 10,
+        "subframes": 106,
+        "blend_s": 0.1,
+        "robot_io": false
+      },
+      {
+        "task": "yifu",
+        "repeat": 1,
+        "infer_s": 0.382834964,
+        "planning_s": 0.0083345,
+        "worker_roundtrip_s": 0.39364673697855324,
+        "skipped_frames": 10,
+        "subframes": 106,
+        "blend_s": 0.1,
+        "robot_io": false
+      },
+      {
+        "task": "drink",
+        "repeat": 0,
+        "infer_s": 0.38926299,
+        "planning_s": 0.012593707,
+        "worker_roundtrip_s": 0.40399652998894453,
+        "skipped_frames": 11,
+        "subframes": 105,
+        "blend_s": 0.1,
+        "robot_io": false
+      },
+      {
+        "task": "drink",
+        "repeat": 1,
+        "infer_s": 0.381206509,
+        "planning_s": 0.012603977,
+        "worker_roundtrip_s": 0.3964120190066751,
+        "skipped_frames": 10,
+        "subframes": 106,
+        "blend_s": 0.1,
+        "robot_io": false
+      }
+    ],
+    "robot_io": false,
+    "actual_server": true
+  },
+  "actual_model_fake_execution": {
+    "passed": true,
+    "tasks": 4,
+    "results": [
+      {
+        "task": "dengpao",
+        "sent": 328,
+        "handoffs": 2,
+        "mean_send_interval_s": 0.00999951350152905,
+        "max_send_interval_s": 0.016528509,
+        "actual_model": true,
+        "recorded_inputs": true,
+        "robot_io": false,
+        "execution": "fake_sender",
+        "log": "/home/descfly/code/agibot_inference/tests/g2_rtc_loop_20261111/dengpao-254373833730406.jsonl"
+      },
+      {
+        "task": "diguan",
+        "sent": 328,
+        "handoffs": 2,
+        "mean_send_interval_s": 0.009999623186544342,
+        "max_send_interval_s": 0.011625749,
+        "actual_model": true,
+        "recorded_inputs": true,
+        "robot_io": false,
+        "execution": "fake_sender",
+        "log": "/home/descfly/code/agibot_inference/tests/g2_rtc_loop_20261111/diguan-254378066467478.jsonl"
+      },
+      {
+        "task": "yifu",
+        "sent": 328,
+        "handoffs": 2,
+        "mean_send_interval_s": 0.00999959781345566,
+        "max_send_interval_s": 0.015781515,
+        "actual_model": true,
+        "recorded_inputs": true,
+        "robot_io": false,
+        "execution": "fake_sender",
+        "log": "/home/descfly/code/agibot_inference/tests/g2_rtc_loop_20261111/yifu-254382253550099.jsonl"
+      },
+      {
+        "task": "drink",
+        "sent": 328,
+        "handoffs": 2,
+        "mean_send_interval_s": 0.009999492299694188,
+        "max_send_interval_s": 0.018320135,
+        "actual_model": true,
+        "recorded_inputs": true,
+        "robot_io": false,
+        "execution": "fake_sender",
+        "log": "/home/descfly/code/agibot_inference/tests/g2_rtc_loop_20261111/drink-254386476588428.jsonl"
+      }
+    ],
+    "robot_io": false
+  },
+  "robot_started": false,
+  "server_code_modified": false,
+  "ema": false,
+  "extra_filter": false,
+  "checked_at": "2026-11-11T16:00:09.975529+08:00"
+}

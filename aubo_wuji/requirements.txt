@@ -1,0 +1,9 @@
+# Use the existing replay/code/python runtime (Python3.12 + ROS Jazzy).
+numpy>=1.26,<3
+scipy>=1.11,<2
+opencv-python>=4.6
+pin>=3,<5
+coal>=3,<4
+# rclpy + sensor_msgs come from ROS Jazzy, not pip.
+# Aubo and Wuji SDKs are reused from replay/code/vendor; no MuJoCo required.
+# Orbbec network SDK 2.1.2 / CPython3.12 is bundled under vendor/camera_runtime.

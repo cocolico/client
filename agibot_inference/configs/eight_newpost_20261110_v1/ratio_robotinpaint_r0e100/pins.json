@@ -1,0 +1,9 @@
+{
+  "server_host": "10.0.0.22",
+  "server_port": 19204,
+  "deployment_id": "a00954ffdc45f0f4063079f6a7f18db8d8913d1c146ab06717a688d1ef1559a6",
+  "checkpoint_sha256": "f82ff5499ff226f276aa9e1e44abd8490f34115e75a747563c7ba7622582be05",
+  "normalization_sha256": "eb55126fa207b42f0b06a1f5c8371f9ad21c1fc223785aba69e0d5904a368f36",
+  "config_sha256": "42d2d62f002b4280a7bf578f3d1820aeb2f215f619f7e5012a0ebc060ab84438",
+  "tasks_sha256": "a64fdf40c0dee888704e462f2cc2282cf562fa875b7dce55e4ffdb29b6a07e60"
+}

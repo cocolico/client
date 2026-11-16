@@ -1,0 +1,97 @@
+{
+  "passed": true,
+  "requests": 8,
+  "tasks": 4,
+  "results": [
+    {
+      "task": "dengpao",
+      "repeat": 0,
+      "infer_s": 0.408055573,
+      "planning_s": 0.008240846,
+      "worker_roundtrip_s": 0.4259353029774502,
+      "skipped_frames": 11,
+      "subframes": 103,
+      "blend_s": 0.1,
+      "robot_io": false
+    },
+    {
+      "task": "dengpao",
+      "repeat": 1,
+      "infer_s": 0.382481719,
+      "planning_s": 0.008284017,
+      "worker_roundtrip_s": 0.3927789209992625,
+      "skipped_frames": 10,
+      "subframes": 106,
+      "blend_s": 0.1,
+      "robot_io": false
+    },
+    {
+      "task": "diguan",
+      "repeat": 0,
+      "infer_s": 1.088406248,
+      "planning_s": 0.004287229,
+      "worker_roundtrip_s": 1.0951906059926841,
+      "skipped_frames": 25,
+      "subframes": 35,
+      "blend_s": 0.1,
+      "robot_io": false
+    },
+    {
+      "task": "diguan",
+      "repeat": 1,
+      "infer_s": 0.363440627,
+      "planning_s": 0.008501071,
+      "worker_roundtrip_s": 0.373908918001689,
+      "skipped_frames": 10,
+      "subframes": 108,
+      "blend_s": 0.1,
+      "robot_io": false
+    },
+    {
+      "task": "yifu",
+      "repeat": 0,
+      "infer_s": 0.387634048,
+      "planning_s": 0.008243311,
+      "worker_roundtrip_s": 0.39793877498595975,
+      "skipped_frames": 10,
+      "subframes": 106,
+      "blend_s": 0.1,
+      "robot_io": false
+    },
+    {
+      "task": "yifu",
+      "repeat": 1,
+      "infer_s": 0.382834964,
+      "planning_s": 0.0083345,
+      "worker_roundtrip_s": 0.39364673697855324,
+      "skipped_frames": 10,
+      "subframes": 106,
+      "blend_s": 0.1,
+      "robot_io": false
+    },
+    {
+      "task": "drink",
+      "repeat": 0,
+      "infer_s": 0.38926299,
+      "planning_s": 0.012593707,
+      "worker_roundtrip_s": 0.40399652998894453,
+      "skipped_frames": 11,
+      "subframes": 105,
+      "blend_s": 0.1,
+      "robot_io": false
+    },
+    {
+      "task": "drink",
+      "repeat": 1,
+      "infer_s": 0.381206509,
+      "planning_s": 0.012603977,
+      "worker_roundtrip_s": 0.3964120190066751,
+      "skipped_frames": 10,
+      "subframes": 106,
+      "blend_s": 0.1,
+      "robot_io": false
+    }
+  ],
+  "robot_io": false,
+  "actual_server": true
+}

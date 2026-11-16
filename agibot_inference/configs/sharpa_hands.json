@@ -1,0 +1,6 @@
+{
+  "sdk_root": "/opt/sharpa-wave-sdk",
+  "discovery_timeout_s": 10.0,
+  "left": {"serial": "C8519039C852", "speed_coefficient": 0.3, "current_coefficient": 0.6, "interpolate": true, "enable_tactile": false},
+  "right": {"serial": "CE569038CE55", "speed_coefficient": 0.3, "current_coefficient": 0.6, "interpolate": true, "enable_tactile": false}
+}

@@ -1,0 +1,8 @@
+{
+  "action_dt_s": 0.05,
+  "servo_dt_s": 0.01,
+  "blend_s": 0.1,
+  "initial_lead_s": 0.75,
+  "planning_reserve_s": 0.15,
+  "margin_s": 0.1
+}

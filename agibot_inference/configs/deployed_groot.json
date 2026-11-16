@@ -1,0 +1,48 @@
+{
+  "deployment_id": "67fc350dc9e5ebf7993f211f2928a73cb3055287946260d5fea052689c6e81e9",
+  "checkpoint_sha256": "21d60f45a831a62b1dc1e5b1ea2a5559cc5afec0a2daa6aa1cda5adbfe4e680d",
+  "checkpoint_step": 30000,
+  "normalization_sha256": "eb55126fa207b42f0b06a1f5c8371f9ad21c1fc223785aba69e0d5904a368f36",
+  "wire_protocol": "egoav78_native_post_v4",
+  "model": "groot",
+  "ssh_host": "zw",
+  "server_host": "10.0.0.84",
+  "server_port": 18917,
+  "tasks_file": "tasks_groot_fivepost_20261108.json",
+  "expected_experiment": "aligned_camera_c0",
+  "model_native_dim": 78,
+  "conditioning": "current_image_current_proprio",
+  "proprio_history": false,
+  "denoise_steps": 10,
+  "compile": false,
+  "client_image_preprocess": {
+    "schema": "task_head_rgb_crop_v1",
+    "owner": "client",
+    "tasks": {
+      "g2/diguan": {
+        "source_wh": [
+          640,
+          480
+        ],
+        "crop_xyxy": [
+          218,
+          130,
+          538,
+          450
+        ],
+        "output_wh": [
+          320,
+          320
+        ],
+        "resize": "none",
+        "history": "all_observed_frames"
+      }
+    }
+  },
+  "ssh_compression": true,
+  "lossless_transport": {
+    "codec": "rgb_png_lossless_v1",
+    "congestion": "bbr",
+    "gateway_script": "/mnt/workspace/users/haoran/workspace/deploy/rpc_png_transport_20261109/rpc_png_gateway.py"
+  }
+}

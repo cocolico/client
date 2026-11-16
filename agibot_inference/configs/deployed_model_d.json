@@ -1,0 +1,14 @@
+{
+  "wire_protocol": "egoav78_abcd_history_v4",
+  "model": "model_d",
+  "ssh_host": "zw",
+  "server_host": "10.0.47.182",
+  "server_port": 8884,
+  "tasks_file": "deployed_tasks78.json",
+  "expected_experiment": "real_posttrain",
+  "model_native_dim": 78,
+  "deployment_id": "25c0a1c0468c9e997fe04df98a793a40f804616ba6d45d56ec87a676cc590d86",
+  "checkpoint_sha256": "be5991befb3bd6cbb1eb2b88ce67f517a5eed061e3bc7f67d684e41c97d3299d",
+  "conditioning": "image_history_current_proprio",
+  "proprio_history": false
+}

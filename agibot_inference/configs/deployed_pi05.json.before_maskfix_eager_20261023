@@ -1,0 +1,9 @@
+{
+  "wire_protocol": "egoav78_v4",
+  "model": "pi05",
+  "ssh_host": "b_dev",
+  "server_host": "172.31.68.233",
+  "server_port": 18872,
+  "tasks_file": "baseline_tasks78.json",
+  "deployment_id": "1f71f9d84a65603b37ea0ca08dfc198ee2f854c23efa9f75a8fb96c708130191"
+}

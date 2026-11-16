@@ -1,0 +1,43 @@
+{
+  "deployment_id": "46762918f5d5f93547ca0daef937e71687270803f96ce3b3cf7796587ca6d2f2",
+  "checkpoint_sha256": "0fa0373ec13327659fe4a6ec010dd488efd81434fdb2a6adbaa34df05f785ad8",
+  "checkpoint_step": 30000,
+  "normalization_sha256": "ab69d2a09b9635953b16c4729b2fc4e499812e8fd6bdfb6f798712579ce6eccf",
+  "wire_protocol": "egoav78_native_post_v4",
+  "model": "fastwam",
+  "ssh_host": "zw",
+  "server_host": "10.0.46.238",
+  "server_port": 19132,
+  "tasks_file": "tasks_eff_fastwam_n75.json",
+  "expected_experiment": "aligned_camera_c0",
+  "model_native_dim": 78,
+  "conditioning": "current_image_current_proprio",
+  "proprio_history": false,
+  "denoise_steps": 10,
+  "compile": true,
+  "client_image_preprocess": {
+    "schema": "task_head_rgb_crop_v1",
+    "owner": "client",
+    "tasks": {
+      "g2/diguan": {
+        "source_wh": [
+          640,
+          480
+        ],
+        "crop_xyxy": [
+          218,
+          130,
+          538,
+          450
+        ],
+        "output_wh": [
+          320,
+          320
+        ],
+        "resize": "none",
+        "history": "all_observed_frames"
+      }
+    }
+  },
+  "ssh_compression": true
+}

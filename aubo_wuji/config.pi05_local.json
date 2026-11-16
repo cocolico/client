@@ -1,0 +1,59 @@
+{
+  "replay_root": "../../code",
+  "hand_model_root": "../keypoints21_to_wujihand2/assets/wuji",
+  "replay_config": "../../code/config/human_replay.json",
+  "runtime_config": "../../code/config/runtime.json",
+  "output_root": "../pi05_local/client_runs",
+  "server": {
+    "transport": "tcp",
+    "host": "127.0.0.1",
+    "port": 18805,
+    "timeout_s": 180,
+    "model": "pi05_hh_8408",
+    "task": "tidying",
+    "expected_deployment_id": "55df812d3d076684",
+    "expected_run_name": "pi05_posttrain_humanhand",
+    "num_inference_steps": 10
+  },
+  "camera": {
+    "backend": "orbbec_net",
+    "ip": "192.168.1.10",
+    "port": 8090,
+    "serial": "CP4W86300030",
+    "width": 640,
+    "height": 400,
+    "capture_fps": 10,
+    "image_topic": "/camera/color/image_raw",
+    "info_topic": "/camera/color/camera_info",
+    "frame_id": "camera_color_optical_frame",
+    "fps": 30,
+    "maximum_frame_age_s": 0.15,
+    "maximum_sync_span_s": 0.15,
+    "maximum_history_error_s": 0.04,
+    "intrinsics_tolerance_px": 0.5,
+    "distortion_tolerance": 0.0001,
+    "geometry_mode": "canonical_cam0",
+    "calibration_note": "复用replay本地相机手眼，启动时严格核对CameraInfo。canonical_cam0按两套K/D重投影到服务端像素几何，保持光学坐标轴；此跨相机适配尚待真实模型效果验证。strict_raw模式要求本地原始相机直接符合服务端cam0标定。"
+  },
+  "monitor": {
+    "enabled": false,
+    "port": 8765
+  },
+  "execution": {
+    "mode": "retimed_replay",
+    "speed": 0.03,
+    "persistent_servo": true,
+    "trajectory_sampling": "source_waypoints",
+    "scheduler_lateness_policy": "warn_and_reschedule",
+    "maximum_tick_lateness_s": 1.0,
+    "prediction_horizon_s": null,
+    "collision_check_policy": "disabled_by_operator",
+    "maximum_observation_age_s": 60,
+    "max_tip_fit_m": 0.015,
+    "max_point_fit_m": 0.035,
+    "max_root_translation_m": null,
+    "max_root_rotation_rad": 0.5,
+    "stationary_arm_tolerance_rad": 0.002,
+    "stationary_hand_tolerance_rad": 0.005
+  }
+}

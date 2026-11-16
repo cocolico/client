@@ -1,0 +1,43 @@
+{
+  "deployment_id": "1846e7165aab415f71f55a76abddf5c601cfdbc9f685ab8ae4c92688964bfaa3",
+  "checkpoint_sha256": "376c8c28121ea9355f7f56eb2e4f2c6986cb2bed6b6de0125b55e3d8811379da",
+  "checkpoint_step": 30000,
+  "normalization_sha256": "6caa4c5419c40243ecb357123c2736f366bfde45cc19d99d81345f92970d7f79",
+  "wire_protocol": "egoav78_native_post_v4",
+  "model": "pi05",
+  "ssh_host": "zw",
+  "server_host": "10.0.0.22",
+  "server_port": 19201,
+  "tasks_file": "tasks_eff_pi05_n50.json",
+  "expected_experiment": "aligned_camera_c0",
+  "model_native_dim": 78,
+  "conditioning": "current_image_current_proprio",
+  "proprio_history": false,
+  "denoise_steps": 10,
+  "compile": true,
+  "client_image_preprocess": {
+    "schema": "task_head_rgb_crop_v1",
+    "owner": "client",
+    "tasks": {
+      "g2/diguan": {
+        "source_wh": [
+          640,
+          480
+        ],
+        "crop_xyxy": [
+          218,
+          130,
+          538,
+          450
+        ],
+        "output_wh": [
+          320,
+          320
+        ],
+        "resize": "none",
+        "history": "all_observed_frames"
+      }
+    }
+  },
+  "ssh_compression": true
+}

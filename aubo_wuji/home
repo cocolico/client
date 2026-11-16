@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+root="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/../.." && pwd)"
+episode="$root/try/replay_test_converted_sharpa_wuji2_20261115(1)/replay_test_converted/wuji_outroom_flower_episode1400"
+exec "$root/code/replay_arms" "$episode" --first-frame-only "$@"

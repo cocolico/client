@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "changed_files": [
+    "model_servers/mid_a1_final/serve_local.py",
+    "configs/deployed_mid_a1_final_local.json"
+  ],
+  "config_change": "deployment_id only",
+  "deployment_id": "85a9608aa0ecb041c2fe24fbc13b551a0ac82160d4faeee9acd24c178142c38b",
+  "unit_tests": 7,
+  "existing_integration_tests": 5,
+  "warmup_requests": 12,
+  "cold_first_s": 12.768677621003008,
+  "max_warm_s": 0.3585538519837428,
+  "recorded_client_requests": 12,
+  "max_client_response_age_s": 0.401343745,
+  "reference_max_abs": 0.0,
+  "client_age_limit_s": 6,
+  "client_execution_changed": false,
+  "robot_io": false,
+  "test_server_pid": 2349849,
+  "test_server_stopped": true,
+  "server_log": "/home/descfly/code/agibot_inference/model_servers/mid_a1_final/logs/20261111-153053-2349849/server.log",
+  "readiness_after_warmup": true
+}

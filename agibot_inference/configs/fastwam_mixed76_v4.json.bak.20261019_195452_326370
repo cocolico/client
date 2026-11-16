@@ -1,0 +1,8 @@
+{
+  "model": "fastwam",
+  "protocol_version": 4,
+  "ssh_host": "b_dev_wc",
+  "server_host": "127.0.0.1",
+  "server_port": 18849,
+  "status": "verified_real_and_piper_20261018"
+}

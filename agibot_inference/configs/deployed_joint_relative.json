@@ -1,0 +1,9 @@
+{
+  "wire_protocol": "egoav78_v4",
+  "model": "joint_relative",
+  "ssh_host": "b_dev",
+  "server_host": "172.31.68.233",
+  "server_port": 18868,
+  "tasks_file": "deployed_tasks78.json",
+  "deployment_id": "da84697c442a77d08cd3d1e9cd8b1afe6e84b8c4061766de361fe99210c09c70"
+}

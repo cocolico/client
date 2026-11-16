@@ -1,0 +1,8 @@
+{
+  "model": "alpha",
+  "protocol_version": 4,
+  "ssh_host": "b_dev",
+  "server_host": "127.0.0.1",
+  "server_port": 8866,
+  "status": "endpoint_updated"
+}

@@ -1,0 +1,10 @@
+{
+  "wire_protocol": "egoav78_c13_v4",
+  "model": "joint_relative_c13",
+  "ssh_host": "b_dev",
+  "server_host": "172.31.68.233",
+  "server_port": 18875,
+  "tasks_file": "deployed_tasks78.json",
+  "deployment_id": "ae7f24c07a259281cd5d38f0ef8371444dbf5cf438343e5bf97073a2ae8bee5f",
+  "expected_experiment": "relative"
+}
